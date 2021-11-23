@@ -1,0 +1,56 @@
+.blogpost-tegels{
+    display: flex;
+    
+}
+
+.blogpost {
+    width: 300px;
+    border: 1px solid black;
+    
+}
+
+
+/*
+
+.border {
+    border: solid 5px red;
+    margin: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.center-title{
+    margin: 0 auto;
+    width: 400px;
+
+}
+
+.nav-links{
+    padding: 0;
+}
+
+.nav-links li{
+    display: inline;
+
+}
+
+
+body{
+    background-color: salmon;
+    color: cyan ;
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+}
+
+@media (min-width: 1024px) {
+    body{
+        background-color: rgb(35, 214, 65);
+        font-size: 1rem;
+        line-height: 1rem;
+        color: black;
+      
+    }
+    
+}
+
+*/
